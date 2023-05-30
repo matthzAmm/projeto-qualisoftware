@@ -1,2 +1,2 @@
 # projeto-qualisoftware
-Projeto Proposto pela disciplina de qualidade de software
+Repositório de exercícios das aulas de Linguagem de Programação
